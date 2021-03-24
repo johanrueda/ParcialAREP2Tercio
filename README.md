@@ -63,6 +63,12 @@ para la instancia en AWS vemos que el servicio ya nos esta corriendo
 
 ![](imagenes/aws.PNG)
 
+instancia de aws, donde la podemos utilizar con la funcion de sin o tan:
+
+http://ec2-35-153-79-251.compute-1.amazonaws.com:4000/sin?value=34
+
+http://ec2-35-153-79-251.compute-1.amazonaws.com:4000/tan?value=34
+
 ## Autor
 
 **Johan David Rueda Rodriguez**
