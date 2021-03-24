@@ -1,0 +1,17 @@
+package edu.escuelaing.arem.app;
+
+/**
+ * Clase que calcula las funciones matematicas
+ */
+
+public  class calculadora {
+
+    public double seno (double numero){
+        return java.lang.Math.sin(numero);
+    }
+
+
+    public double tan (double numero){
+        return java.lang.Math.tan(numero);
+    }
+}
