@@ -46,7 +46,7 @@ Este proyecto se desarrollo con:
 * Intellij IDEA
 * Docker
 
-##Pruebas
+## Pruebas
 
 Esta es la funcion seno:
 
@@ -57,7 +57,7 @@ y esta es la funcion tangente:
 ![](imagenes/tan.PNG)
 
 
-##AWS Ec2
+## AWS EC2
 
 para la instancia en AWS vemos que el servicio ya nos esta corriendo
 
